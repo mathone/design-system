@@ -4,6 +4,7 @@ import { fontFamily } from './family';
 import { letterSpacings } from './letter-spacing';
 import { lineHeights } from './line-height';
 import { fontSizes } from './size';
+import { fontVariants } from './variant';
 import { fontWeights } from './weight';
 
 export const Font: FontSystemType = {
@@ -11,5 +12,6 @@ export const Font: FontSystemType = {
   LetterSpacing: letterSpacings,
   LineHeight: lineHeights,
   Size: fontSizes,
+  Variant: fontVariants,
   Weight: fontWeights,
 };
