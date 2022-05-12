@@ -1,0 +1,24 @@
+{
+  "name": "@mathone/design-system",
+  "version": "0.0.1",
+  "description": "Design system",
+  "author": {
+    "name": "Lucas Mathioni",
+    "email": "mathioni@me.com",
+    "url": "https://github.com/lucasmathioni"
+  },
+  "homepage": "https://github.com/mathone/design-system#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathone/design-system.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mathone/design-system/issues"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
