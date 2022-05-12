@@ -1,3 +1,1 @@
-export default () => {
-  console.log('teste');
-};
+export * from './fonts';
