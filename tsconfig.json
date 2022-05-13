@@ -13,6 +13,7 @@
 
     /* JavaScript Support */
     "allowJs": false,
+    "jsx": "react",
 
     /* Emit */
     "declaration": true,
