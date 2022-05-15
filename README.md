@@ -1,6 +1,6 @@
 <h3 align="center"><img src="https://img.shields.io/badge/@mathone-design_system-%233949ab?style=for-the-badge"></img></h3>
 <p align="center">
-  <img alt="Banner" title="#Banner" src="./assets/banner.svg" />
+  <img alt="Banner" title="#Banner" src="./assets/banners/readme.svg" />
 </p>
 <h3 align="center"><img src="https://img.shields.io/github/languages/top/mathone/design-system?color=%235c6bc0"></img> <img src="https://img.shields.io/github/languages/code-size/mathone/design-system?color=%235c6bc0"></img> <img src="https://img.shields.io/github/issues/mathone/design-system?color=%235c6bc0"></img></h3>
 <p align="center">Created to help developers build high-quality digital experiences for web and mobile.</p>
