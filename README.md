@@ -21,7 +21,7 @@
 - [x] React hook use theme colors
 - [x] React native theme provider
 
-# Author
+<h2><a href="#author">Author</a></h2>
 
 <a href="https://www.linkedin.com/in/mathioni/">
   <img style="border-radius: 50px;" src="https://avatars.githubusercontent.com/u/25616687?v=4" width="100px;" alt=""/>
