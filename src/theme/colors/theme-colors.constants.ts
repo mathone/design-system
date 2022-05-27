@@ -10,13 +10,13 @@ export const ThemeColorsLight: ThemeColorsType = {
       fill: Colors.grey['100'],
     },
     base: {
-      border: Colors.grey['200'],
+      border: Colors.grey['100'],
       borderError: Colors.red['600'],
       borderFocused: Colors.indigo['600'],
       fill: Colors.grey['50'],
     },
     popout: {
-      border: Colors.grey['400'],
+      border: Colors.grey['300'],
       fill: Colors.grey['200'],
     },
   },
@@ -34,17 +34,17 @@ export const ThemeColorsDark: ThemeColorsType = {
   overlay: Colors.overlay,
   surface: {
     background: {
-      fill: Colors.grey['900'],
+      fill: Colors.grey['950'],
     },
     base: {
-      border: Colors.grey['600'],
+      border: Colors.grey['800'],
       borderError: Colors.red['400'],
       borderFocused: Colors.indigo['400'],
-      fill: Colors.grey['800'],
+      fill: Colors.grey['900'],
     },
     popout: {
-      border: Colors.grey['500'],
-      fill: Colors.grey['700'],
+      border: Colors.grey['700'],
+      fill: Colors.grey['800'],
     },
   },
   text: {

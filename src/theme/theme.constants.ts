@@ -31,6 +31,12 @@ const ThemeBaseModeDark: ThemeBaseModeType = {
   mode: 'dark',
 };
 
-export const ThemeLight: Theme = Object.assign(ThemeBase, ThemeBaseModeLight);
+export const ThemeLight: Theme = {
+  ...ThemeBase,
+  ...ThemeBaseModeLight,
+};
 
-export const ThemeDark: Theme = Object.assign(ThemeBase, ThemeBaseModeDark);
+export const ThemeDark: Theme = {
+  ...ThemeBase,
+  ...ThemeBaseModeDark,
+};
